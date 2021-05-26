@@ -1,0 +1,20 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hmnshu08/React-Assignment.git"
+  },
+  "author": "hmnshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hmnshu08/React-Assignment/issues"
+  },
+  "homepage": "https://github.com/Hmnshu08/React-Assignment#readme"
+}
